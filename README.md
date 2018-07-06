@@ -6,7 +6,7 @@ This project should be used to replicate the NUnit issue 2761: https://github.co
   - Open the solution file (NUnitHangIssue.sln)
   - Restore all the Nuget packages
   - Do a full build
-  - Run the following command using nunit-console v3.8
+  - Run the following command using nunit-console v3.8 (you can find it it the downloaded packages, under the folder `packages\NUnit.ConsoleRunner.3.8.0\tools`)
 
 
 ```sh
