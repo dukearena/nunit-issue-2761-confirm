@@ -1,0 +1,12 @@
+[Bb]in/
+obj/
+.vs/
+[Pp]ackages/
+[Tt]est[Rr]esults/
+[Cc]overage[Rr]esults/
+*.user
+*.suo
+*.orig
+*.log
+*.exe
+*.vs
